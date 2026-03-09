@@ -4,7 +4,7 @@ This project builds machine learning models to estimate chronological age from b
 
 Dataset
 
-NHANES 2011–2018(Not useing later year as COVID 19 impacted dataset)
+NHANES 2011–2020(Not useing later year as COVID 19 impacted dataset - Pre-Pandemic Data)
 
 Demographics
 
