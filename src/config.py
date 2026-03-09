@@ -1,0 +1,14 @@
+FEATURES = [
+    "LBXWBCSI",
+    "LBXRBCSI",
+    "LBXHGB",
+    "LBXHCT",
+    "LBXMCVSI",
+    "LBXRDW",
+    "LBXPLTSI"
+]
+
+TARGET = "RIDAGEYR"
+
+TEST_SIZE = 0.2
+RANDOM_STATE = 42
