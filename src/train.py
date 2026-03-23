@@ -40,5 +40,4 @@ plt.ylabel("Predicted Age")
 plt.title("CBC-based Age Prediction")
 
 plt.savefig("results/prediction_plot.png")
-
 plt.close()
